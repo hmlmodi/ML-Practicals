@@ -1,2 +1,2 @@
-# ML-Practicals
-ML College Practical 
+# ML-PRACTICALS
+College practicals of MACHINE LEARNING
